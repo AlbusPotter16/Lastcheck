@@ -7,7 +7,7 @@ int main(){
     cout<<"See those changes that are to done";
     cout<<a;
     cout<<b;
-
+    cout<<"Some...";    
     cout<<sum<<endl;
     return 0;
 }
