@@ -4,5 +4,10 @@ int main(){
     int a=9;
     int b=34;
     int sum=a+b;
+    cout<<"See those changes that are to done";
+    cout<<a;
+    cout<<b;
+
     cout<<sum<<endl;
+    return 0;
 }
